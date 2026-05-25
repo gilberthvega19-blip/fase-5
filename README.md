@@ -3,6 +3,11 @@
 # Curso: Fundamentos de Programación
 # Autor: Gilberth Andres Segura Vega
 # =========================================================
+
+# Matriz de inventario
+# Formato:
+# [Código, Nombre del Artículo, Stock Actual, Stock Mínimo]
+
 inventario = [
     ["A101", "Teclado", 5, 10],
     ["A102", "Mouse", 12, 8],
